@@ -1,4 +1,6 @@
-# 合同誌用のあとがきメーカー
+# 合同誌あとがきメーカー
+<img width="1427" height="1028" alt="image" src="https://github.com/user-attachments/assets/79a5ea97-234a-4188-889d-35d3e5947aee" />
+
 ## 概要
 - windows用です
 - しつびのNFイラスト合同誌用に最適化しています
